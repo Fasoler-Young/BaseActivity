@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:showIn="navigation_view">
+
+    <item
+        android:id="@+id/nav_saw_all_words"
+        android:title="@string/nav_saw_all_words" />
+
+    <item android:title="@string/modification">
+        <menu>
+            <item
+                android:id="@+id/nav_all_words"
+                android:title="@string/nav_all_words"
+                app:actionViewClass="android.widget.TextView"/>
+
+
+            <item
+                android:id="@+id/nav_hard_mode"
+                android:title="@string/nav_hard_mode"
+                app:actionViewClass="android.widget.TextView"/>
+            <item
+                android:id="@+id/nav_new_words_mode"
+                app:actionViewClass="android.widget.TextView"
+                android:title="@string/nav_new_words_mode" />
+            <item
+                app:actionViewClass="android.widget.TextView"
+                android:id="@+id/nav_favorites_words"
+                android:title="@string/nav_favorites_words" />
+        </menu>
+    </item>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Send" />
+        </menu>
+    </item>
+
+</menu>

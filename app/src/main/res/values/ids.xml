@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="ru_txt" type="id"></item>
+    <item name="en_txt" type="id"></item>
+    <item name="btn_add_word" type="id"></item>
+    <item name="layout_add_word" type="id"></item>
+</resources>

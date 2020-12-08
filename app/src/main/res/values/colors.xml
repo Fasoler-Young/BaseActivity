@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#7CB342</color>
+    <color name="colorPrimar">#008577</color>
+    <color name="colorPrimaryDark">@color/design_default_color_primary_dark</color>
+    <color name="eeeeeeeeeeeeeeee">#2539A7</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorColorEndCard">#80FFFEFE</color>
+    <color name="colorColorStartCard">#CCFCFBFB</color>
+    <color name="colorFrameCard">#B9000000</color>
+    <color name="colorBackgroundHardStart">#59EB6D6D</color>
+    <color name="colorBackgroundHardEnd">#B3EB6D6D</color>
+    <color name="background_all_word">#00FFFFFF</color>
+    <color name="choose_layout">#40FFCA00</color>
+    <color name="white">#D8FFFFFF</color>
+
+</resources>
+
